@@ -9,7 +9,7 @@ src/ the blogger software
      expand.js
      page_tempate.js
      style.css
-     make_index.es  -- script to buold the includes
+     make_index.es  -- script to build the includes
      do_includes.es -- script to perform includes
      lint.es        -- sanity check of inputs
 
